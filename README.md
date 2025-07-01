@@ -1,0 +1,3 @@
+# Wildfires Images
+
+O presente trabalho visa utilizar métodos de Inteligência Artificial para a detecção e classificação de imagens de incêndios florestais. Com a nossa implementação, queremos identificar de forma automática se uma região tem foco de incêndio ou não. Comparamos a acurácia entre técnicas de Machine Learning (Descritor de Cor e HOG) e Redes Neurais Convolucionais para identificar a melhor forma de classificar os dados.
